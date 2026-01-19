@@ -8,6 +8,12 @@ I bridge the gap between siloed business applications by building scalable, resi
 - ⚡ **Force Multiplier:** I build libraries and testing frameworks to standardize code across teams.
 - 🛠️ **Core Stack:** Google Apps Script, Node.js, PHP, GCP, and RESTful APIs.
 
+📫 Connect with me:
+LinkedIn: (https://www.linkedin.com/in/jigooooo/)
+
+Email: jigolorin823@gmail.com
+
+Portfolio/Resume:
 ---
 
 ### 🔧 Featured Open Source Tooling
