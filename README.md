@@ -13,6 +13,16 @@ I bridge the gap between siloed business applications by building scalable, resi
 Email: jigolorin823@gmail.com
 
 Portfolio/Resume:
+
+### 🛠 Technical Toolbox
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Automation & Integration** | Google Apps Script (Advanced), Zapier, REST APIs, Webhooks, One/Two-way Sync |
+| **Cloud & Infrastructure** | Google Cloud Platform (GCP): Cloud Run, BigQuery, Document AI, Serverless |
+| **Backend & Database** | Node.js, PHP (WHMCS), MySQL, MongoDB, ETL Pipeline Design |
+| **Frontend & Web** | React.js, Next.js, Tailwind CSS, WordPress, HTML5/CSS3 |
+| **Operations & AI** | Dialogflow (Chatbots), Agile Squad Leadership, Git, Technical Documentation |
 ---
 
 ### 🔧 Featured Open Source Tooling
