@@ -1,18 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jigo 👋 
 
-<!--
-**jigooooo/jigooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Workflow Engineer | Specialist in API Orchestration & Automation
 
-Here are some ideas to get you started:
+I bridge the gap between siloed business applications by building scalable, resilient automation ecosystems. My expertise lies in architecting bi-directional data synchronizations and developing developer-centric tools for the Google Apps Script and GCP environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Focus:** Scaling internal business systems and AI-driven data extraction.
+- ⚡ **Force Multiplier:** I build libraries and testing frameworks to standardize code across teams.
+- 🛠️ **Core Stack:** Google Apps Script, Node.js, PHP, GCP, and RESTful APIs.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigooooo)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🔧 Featured Open Source Tooling
+* **[appscript-testing-library](https://github.com/jigooooo/appscript-testing-library)**: A lightweight framework to bring unit testing to the Apps Script environment.
+* **[sql-database-query-maker]([link](https://github.com/jigooooo/sql-database-query-maker))**: A fluent SQL query builder designed for JDBC result parsing.
+* **[asana-time-entries-api-library]([link](https://github.com/jigooooo/asana-time-entries-api-library))**: Professional-grade API wrapper with automatic pagination and batch processing.
