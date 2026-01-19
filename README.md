@@ -9,7 +9,7 @@ I bridge the gap between siloed business applications by building scalable, resi
 - 🛠️ **Core Stack:** Google Apps Script, Node.js, PHP, GCP, and RESTful APIs.
 
 📫 Connect with me:
-LinkedIn: (https://www.linkedin.com/in/jigooooo/)
+LinkedIn: [https://www.linkedin.com/in/jigooooo/]
 
 Email: jigolorin823@gmail.com
 
