@@ -26,6 +26,7 @@ Portfolio/Resume:
 ---
 
 ### 🔧 Featured Open Source Tooling
+* **[copper-crm-automation-engine](https://github.com/jigooooo/copper-crm-automation-engine)**: A pipeline state machine automating SaaS renewal lifecycles using a decoupled multi-layer architecture.
 * **[appscript-testing-library](https://github.com/jigooooo/appscript-testing-library)**: A lightweight framework to bring unit testing to the Apps Script environment.
 * **[sql-database-query-maker](https://github.com/jigooooo/sql-database-query-maker)**: A fluent SQL query builder designed for JDBC result parsing.
 * **[asana-time-entries-api-library](https://github.com/jigooooo/asana-time-entries-api-library)**: Professional-grade API wrapper with automatic pagination and batch processing.
